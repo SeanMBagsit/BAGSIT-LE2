@@ -2,9 +2,9 @@ C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\bin\Debug\BagsitBlogDB.dacpac
 C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\bin\Debug\BagsitBlogDB.dll
 C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\bin\Debug\BagsitBlogDB.pdb
 C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\obj\Debug\BagsitBlogDB.sqlproj.AssemblyReference.cache
-C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\obj\Debug\BagsitBlogDB.dll
-C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\obj\Debug\BagsitBlogDB.pdb
 C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\obj\Debug\Model.xml
 C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\obj\Debug\refactor.xml
 C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\obj\Debug\postdeploy.sql
 C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\obj\Debug\predeploy.sql
+C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\obj\Debug\BagsitBlogDB.dll
+C:\Users\USER\source\repos\BagsitLE2\BagsitBlogDB\obj\Debug\BagsitBlogDB.pdb

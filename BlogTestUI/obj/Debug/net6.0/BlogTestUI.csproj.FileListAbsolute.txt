@@ -35,3 +35,4 @@ C:\Users\USER\source\repos\BagsitLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.pdb
 C:\Users\USER\source\repos\BagsitLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.genruntimeconfig.cache
 C:\Users\USER\source\repos\BagsitLE2\BlogTestUI\obj\Debug\net6.0\ref\BlogTestUI.dll
 C:\Users\USER\source\repos\BagsitLE2\BlogTestUI\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\source\repos\BagsitLE2\BlogTestUI\bin\Debug\net6.0\BlogDataLibrary.dll.config
