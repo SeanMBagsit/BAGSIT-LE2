@@ -1,0 +1,10 @@
+:host {
+    display: block;
+    height: 100%;
+  }
+  
+  router-outlet {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

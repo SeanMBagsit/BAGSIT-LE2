@@ -1,0 +1,17 @@
+:host {
+    display: block;
+    height: 100%;
+  }
+   
+  p {
+    margin: 10px 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
